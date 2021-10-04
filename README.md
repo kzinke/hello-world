@@ -6,4 +6,10 @@ Hi everyone! I'm working through 'Github for Dummies' to get used to github and 
 ## My goal
 My goal is to get a grip on the basics and build a github page.
 
+## Author
+Katharina Zinke
+
+## Acknowledgements
+Funding and contributions
+
 ## The end
